@@ -8,7 +8,7 @@
 - Variables and functions cannot have the same name.
 
 ## Screenshot
-- <img src="./Assets/images/Screenshot.png>
+- <img src="./Assets/images/Screenshot.png">
 
 ##
 Repository URL: https://github.com/JoeyLiu518/JS-password-generator
